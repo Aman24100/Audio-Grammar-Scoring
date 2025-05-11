@@ -16,6 +16,10 @@ This project evaluates spoken English by:
 ---
 
 ## 🗂️ Dataset Setup  
+Download the dataset:
+
+🔗 https://drive.google.com/drive/folders/1GPryhwimhwVIvO3BOa52aMyhcEUJluCM?usp=share_link
+
 Organize your dataset as follows:  
 dataset/  
 ├── audios_train                     # ~444 .wav files for training  
