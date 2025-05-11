@@ -1,0 +1,4 @@
+project-root/
+└── dataset/
+    ├── audios_train/  # Contains .wav files
+    └── audios_test/   # Contains .wav files
